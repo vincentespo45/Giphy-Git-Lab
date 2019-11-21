@@ -1,0 +1,40 @@
+.card {
+    width: 18rem;
+}
+
+.input-group{
+    margin: 10px auto 30px auto !important;
+    width: 60vw !important;
+}
+
+.input-group>.custom-select:not(:last-child), .input-group>.form-control:not(:last-child){
+    width: 60vw;
+}
+
+.list-group .list-group-flush{
+    border-style: groove;
+    border-width: 5px;
+}
+
+#gif-list {
+    position: relative;
+    height: 40vh;
+    width: 50vw;
+    margin: 30px auto auto auto;
+    overflow: auto;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.form-inline{
+    margin-bottom: 150px;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+#label-div{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
